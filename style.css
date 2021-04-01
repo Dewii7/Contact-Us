@@ -1,7 +1,6 @@
 *{
     box-sizing: border-box;
 }
-
 /*HEADER*/
 header{ 
     background-color: black;
@@ -106,6 +105,7 @@ textarea{
     border: 1px solid black;
 }
 
+
 /*FOOTER*/
 footer{
     padding-left: 95px;
@@ -118,4 +118,17 @@ footer{
     padding-top: 250px;
     padding-bottom: 41px;
 }
+
+    
+
+
+
+
+
+
+
+
+
+
+
 
