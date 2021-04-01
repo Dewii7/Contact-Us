@@ -1,0 +1,40 @@
+/*untuk tablet*/
+@media all and (max-width: 1000px){
+    header{
+        width: 100%;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .header-right a{
+        font-size: 1rem;
+        padding: 10px 30px;
+    }
+    .contact-wrapper {
+        padding-right: 20px;
+        padding-left: 20px;
+        width: 100%;
+    }
+    footer{
+        text-align: center;
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+}
+
+/*untuk smartphone*/
+@media all and (max-width: 670px){
+    header{
+        width: 100%;
+    }
+    .header-right a{
+        font-size: 12px;
+        padding: 5px 20px;
+    }
+    .contact-wrapper h1{
+        font-size: 30px;
+        font-weight: bold;
+    }
+    .contact-wrapper p{
+        font-size: 10px;
+    }
+}
